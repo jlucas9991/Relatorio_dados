@@ -44,4 +44,4 @@ C:\Users\Jessica\Downloads\Planilha_Teste.xlsx
 ## 📄 Licença
 
 Este projeto é livre para uso e modificação.  
-Créditos: [Seu Nome](https://github.com/seuusuario)
+Créditos: [João Lucas ]
